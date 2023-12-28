@@ -11,7 +11,7 @@ export const ApiBlog = () => {
   }, []);
 
   return (
-    <main className="pl-[350px] pr-[350px]">
+    <main className="pl-[350px] pr-[351px]">
       <section>
         <Hero />
       </section>
