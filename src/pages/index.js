@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-    <div className="flex flex-col gap-[100px]">
+    <div className=" w-screen  xl:W-[1200PX] flex flex-col gap-[100px]">
       <Head />
       <Header />
       <ApiBlog />
